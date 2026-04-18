@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reference Architecture - Generative AI & Intelligent Data Apps</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: #f4f4f4;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 1450px;
+            margin: 0 auto;
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+        }
+        h1 {
+            text-align: center;
+            color: #1a1a1a;
+            margin-bottom: 20px;
+        }
+        .diagram-wrapper {
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            overflow: hidden;
+            background: #fff;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        iframe {
+            width: 100%;
+            height: 920px;
+            border: none;
+        }
+        .info {
+            text-align: center;
+            margin-top: 20px;
+            color: #555;
+            font-size: 0.98em;
+        }
+        .info strong {
+            color: #0066cc;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Reference Architecture - Generative AI & Intelligent Data Apps</h1>
+        
+        <div class="diagram-wrapper">
+            <iframe 
+                src="https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&zoom=1&url=https://raw.githubusercontent.com/JOSEMARIOG/SAP-AI/refs/heads/main/reference-architecture-generative-ai-intelligent-data-apps-a0ddbe9c8ca55cb0%202.drawio"
+                allowfullscreen>
+            </iframe>
+        </div>
+
+        <div class="info">
+            <strong>💡 Cómo usar el diagrama:</strong><br>
+            Haz clic en las formas, cajas o botones que tengan enlaces configurados.<br>
+            Los enlaces se abrirán en una nueva pestaña.
+        </div>
+    </div>
+
+</body>
+</html>
